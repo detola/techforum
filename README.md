@@ -13,3 +13,5 @@ Installation
 2. included is a SQL already generated, so you can duplicate the database
 3. make sure to include your database details in the config.php file
 4. Once all that is done, you can run the application and create your accounts as you please.
+
+Enjoy!
