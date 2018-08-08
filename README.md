@@ -1,6 +1,6 @@
 # techforum
 
-This is forum application designed in PHP
+This is forum/blog application designed in OOP PHP
 
 User Registration with username and password, upload avatar and Login function
 
